@@ -1,1 +1,1 @@
-# togo-universities-api
+# 🇹🇬 Universities api
